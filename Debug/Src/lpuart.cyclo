@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:1856:26:NVIC_EncodePriority	2
+../Src/lpuart.c:21:6:LPUART1_GPIO_Init	1
+../Src/lpuart.c:46:6:LPUART1_InterruptsConfig	1
+../Src/lpuart.c:56:6:LPUART1_Config	3
+../Src/lpuart.c:88:6:LPUART1_Init	1
+../Src/lpuart.c:94:6:LPUART1_SendChar	1
+../Src/lpuart.c:99:6:LPUART1_SendString	2
+../Src/lpuart.c:111:6:LPUART1_GetNextCharToSend	2
+../Src/lpuart.c:128:6:LPUART1_TxInterrupt	2
+../Src/lpuart.c:138:6:LPUART1_RxInterrupt	3
+../Src/lpuart.c:154:9:LPUART1_IsLineReady	1
+../Src/lpuart.c:159:9:LPUART1_GetLine	4

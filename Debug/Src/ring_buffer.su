@@ -1,0 +1,2 @@
+../Src/ring_buffer.c:10:11:RB_Read	16	static
+../Src/ring_buffer.c:25:11:RB_Write	24	static

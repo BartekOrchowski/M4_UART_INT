@@ -1,0 +1,2 @@
+../Src/ring_buffer.c:10:11:RB_Read	2
+../Src/ring_buffer.c:25:11:RB_Write	2

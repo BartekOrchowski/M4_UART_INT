@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+../Drivers/CMSIS/Include/core_cm4.h:1856:26:NVIC_EncodePriority	40	static
+../Src/lpuart.c:21:6:LPUART1_GPIO_Init	4	static
+../Src/lpuart.c:46:6:LPUART1_InterruptsConfig	8	static
+../Src/lpuart.c:56:6:LPUART1_Config	16	static
+../Src/lpuart.c:88:6:LPUART1_Init	8	static
+../Src/lpuart.c:94:6:LPUART1_SendChar	16	static
+../Src/lpuart.c:99:6:LPUART1_SendString	16	static
+../Src/lpuart.c:111:6:LPUART1_GetNextCharToSend	16	static
+../Src/lpuart.c:128:6:LPUART1_TxInterrupt	8	static
+../Src/lpuart.c:138:6:LPUART1_RxInterrupt	16	static
+../Src/lpuart.c:154:9:LPUART1_IsLineReady	4	static
+../Src/lpuart.c:159:9:LPUART1_GetLine	24	static
